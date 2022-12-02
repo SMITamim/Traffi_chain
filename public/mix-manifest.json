@@ -1,0 +1,14 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/loginMetaMask.js": "/js/loginMetaMask.js",
+    "/js/react.js": "/js/react.js",
+    "/js/regM.js": "/js/regM.js",
+    "/js/contractInfo.js": "/js/contractInfo.js",
+    "/js/driverFactoryAddress.js": "/js/driverFactoryAddress.js",
+    "/js/ticketFactoryAddress.js": "/js/ticketFactoryAddress.js",
+    "/js/InfractionsAddress.js": "/js/InfractionsAddress.js",
+    "/js/judgeFactoryAddress.js": "/js/judgeFactoryAddress.js",
+    "/js/policeFactoryAddress.js": "/js/policeFactoryAddress.js",
+    "/js/vehicleFactoryAddress.js": "/js/vehicleFactoryAddress.js",
+    "/css/app.css": "/css/app.css"
+}
